@@ -1,0 +1,17 @@
+aws_kinesis_agg-1.2.3.dist-info/INSTALLER,sha256=zuuue4knoyJ-UwPPXg8fezS7VCrXJQrAP7zeNuwvFQg,4
+aws_kinesis_agg-1.2.3.dist-info/LICENSE.txt,sha256=z8d0m5b2O9McPEK1xHG_dWgUBT6EfBDz6wA0F7xSPTA,11358
+aws_kinesis_agg-1.2.3.dist-info/METADATA,sha256=GLXGmBw1UVXTzfSv83tK1Ecytro_-MtEU4sYZ8Zea3w,16142
+aws_kinesis_agg-1.2.3.dist-info/RECORD,,
+aws_kinesis_agg-1.2.3.dist-info/REQUESTED,sha256=47DEQpj8HBSa-_TImW-5JCeuQeRkm5NMpJWZG3hSuFU,0
+aws_kinesis_agg-1.2.3.dist-info/WHEEL,sha256=G16H4A3IeoQmnOrYV4ueZGKSjhipXx8zc8nu9FGlvMA,92
+aws_kinesis_agg-1.2.3.dist-info/top_level.txt,sha256=3HyVxnGNRBpT7iVa-2J8VGm0rvs1BThke1BSRCeMFM0,16
+aws_kinesis_agg/__init__.py,sha256=ldyIJT8cbsaH4japBRNb7nhxO5Ghh6QRHsBLyZukn1w,1035
+aws_kinesis_agg/__pycache__/__init__.cpython-39.pyc,,
+aws_kinesis_agg/__pycache__/aggregator.cpython-39.pyc,,
+aws_kinesis_agg/__pycache__/config_pb2.cpython-39.pyc,,
+aws_kinesis_agg/__pycache__/deaggregator.cpython-39.pyc,,
+aws_kinesis_agg/__pycache__/messages_pb2.cpython-39.pyc,,
+aws_kinesis_agg/aggregator.py,sha256=2JPrg8lxDCsmyzBkGCFHDTz_ofUTmaJyFXs7I9BGLcc,19202
+aws_kinesis_agg/config_pb2.py,sha256=Bej97pF0njzpJ4Oa9DV8Kj7e1aCv2H3SamD2T5GY3P0,3552
+aws_kinesis_agg/deaggregator.py,sha256=xKQe1vPhLUWoSuxK55YQeqZAugmx3ioEYhy51OihUzw,11711
+aws_kinesis_agg/messages_pb2.py,sha256=mYxdJeo6CYIc2JCJUmOK5hqsRq2EIfLBOlGVOZdla-c,5030
